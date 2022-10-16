@@ -139,7 +139,7 @@ body{
 }
 @media (max-width: 767px){
     .box .second a{
-        padding: 0 122px;
+        padding: 0 80px;
         margin: 30px auto 0 auto;
     }
 }
